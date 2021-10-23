@@ -1,5 +1,5 @@
-# Period Pride Ja Website
-### *N.B - Erliest version of the PPJ NN models, made during JamAIca Codefest Hackathon Oct. 2021. The project is currently being rebuilt.*
+# Period Pride Ja NN Models
+### *N.B - Erliest version of the PPJ Neural Network (NN) models, made during JamAIca Codefest Hackathon Oct. 2021. The project is currently being rebuilt.*
 
 ---
 ### **DEPLOYED SITE**
